@@ -10,7 +10,8 @@ body{
     font-family:'Arial';
 }
 .wrapper{
-    width: 1001px;
+    width: 100%;
+    max-width:1001px;
     margin: auto;
     position: relative;
 }
